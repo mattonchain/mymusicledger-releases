@@ -147,7 +147,7 @@ Import Settings (Settings → Import) lets you exclude tracks by **kind** before
 
 ## Built With
 
-ChatGPT · Claude Code · Electron · React · Vite · TypeScript · Fastify · SQLite (better-sqlite3) · Mantine · Tabler Icons · Potrace
+ChatGPT · Claude Code · Electron · React · Vite · TypeScript · Fastify · SQLite (better-sqlite3) · Mantine · Tabler Icons · Nano Banana · Potrace
 
 ---
 
