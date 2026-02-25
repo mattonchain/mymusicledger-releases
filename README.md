@@ -38,7 +38,7 @@ This is a personal app in every sense. It was built for a specific, unusual need
 
 ## Installation
 
-1. Download the latest `.dmg` from [Releases](https://github.com/MattOnChain/MyMusicLedger-releases/releases)
+1. Download the latest `.dmg` from [Releases](https://github.com/MattOnChain/MyMusicLedger-Releases/releases)
    - `MyMusicLedger-x.x.x.dmg` — Apple Silicon (M-series Macs)
    - `MyMusicLedger-x.x.x-Intel.dmg` — Intel Macs
 2. Open the `.dmg`. Review and agree to the Software License Agreement.
